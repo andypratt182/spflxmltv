@@ -6,7 +6,7 @@
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">Rangers TV</display-name>
   </channel>
-  <programme channel="RangersTV.ap" start="20250906060000 +0000" stop="20250906120000 +0000">
+  <programme channel="RangersTV.ap" start="20250906060000 +0100" stop="20250906120000 +0100">
     <title lang="en">Next game vs Hearts Sat 13th Sep</title>
     <sub-title lang="en">Next game vs Hearts Sat 13th Sep</sub-title>
     <desc lang="en">Next game vs Hearts Sat 13th Sep</desc>
@@ -14,7 +14,7 @@
     <category lang="en">Sports</category>
     <icon src="https://upload.wikimedia.org/wikipedia/sco/2/2b/Rangers_TV_Logo.png" />
   </programme>
-  <programme channel="RangersTV.ap" start="20250906120000 +0000" stop="20250906000000 +0000">
+  <programme channel="RangersTV.ap" start="20250906120000 +0100" stop="20250906000000 +01000">
     <title lang="en">Next game vs Hearts Sat 13th September</title>
     <desc lang="en">Next game vs Hearts Sat 13th September</desc>
     <category lang="en">Football - Club</category>
