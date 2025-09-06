@@ -1,31 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="none" generator-info-url="none">
-  <channel id="Rangers.TV.uk">
+  <channel id="RangersTV.ap">
     <icon src="https://upload.wikimedia.org/wikipedia/sco/2/2b/Rangers_TV_Logo.png" />
-    <url>http://www.rangersfc.co.uk</url>
+    <icon src="https://upload.wikimedia.org/wikipedia/sco/2/2b/Rangers_TV_Logo.png" />
+    <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">Rangers TV</display-name>
   </channel>
-  <programme channel="Rangers.TV.uk" start="20250901220000 +0000" stop="20250901000000 +0000">
+  <programme channel="RangersTV.ap" start="20250906060000 +0000" stop="20250906120000 +0000">
     <title lang="en">Next game vs Hearts Sat 13th Sep</title>
-    <sub-title lang="en">Home</sub-title>
+    <sub-title lang="en">Next game vs Hearts Sat 13th Sep</sub-title>
     <desc lang="en">Next game vs Hearts Sat 13th Sep</desc>
-    <category lang="en">Sport</category>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/sco/2/2b/Rangers_TV_Logo.png" />
   </programme>
-  <programme channel="Rangers.TV.uk" start="20250902000000 +0000" stop="20250902020000 +0000">
+  <programme channel="RangersTV.ap" start="20250906120000 +0000" stop="20250906000000 +0000">
     <title lang="en">Next game vs Hearts Sat 13th September</title>
-    <sub-title lang="en">Home</sub-title>
     <desc lang="en">Next game vs Hearts Sat 13th September</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Feature</category>
-    <episode-num system="xmltv_ns">4.17.</episode-num>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/sco/2/2b/Rangers_TV_Logo.png" />
   </programme>
-  <programme channel="Sky.History2.uk" start="20250831000000 +0000" stop="20250831010000 +0000">
-    <title lang="en">Ancient Aliens</title>
-    <sub-title lang="en">Impossible Artifacts</sub-title>
-    <desc lang="en">Throughout the world, ancient objects have been found that leave archaeologists at a loss. What do they reveal about the world we live in today.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Feature</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b370659a-bf38-4019-b4f3-51a3f5e02020/16-9" />
-    <episode-num system="xmltv_ns">11.39.</episode-num>
+  <programme channel="RangersTV.ap" start="20250907060000 +0000" stop="20250907120000 +0000">
+    <title lang="en">Next game vs Hearts Sat 13th Sep</title>
+    <desc lang="en">Next game vs Hearts Sat 13th Sep</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/sco/2/2b/Rangers_TV_Logo.png" />
+  </programme>
+  <programme channel="RangersTV.ap" start="20250907120000 +0000" stop="20250907000000 +0000">
+    <title lang="en">Next game vs Hearts Sat 13th September</title>
+    <desc lang="en">Next game vs Hearts Sat 13th September</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/sco/2/2b/Rangers_TV_Logo.png" />
   </programme>
 </tv>
